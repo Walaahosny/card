@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'layoutScreen.dart';
+import 'layoutScreenForCard.dart';
 
 void main() {
   runApp(const MyApp());
